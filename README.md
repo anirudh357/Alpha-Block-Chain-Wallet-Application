@@ -8,6 +8,9 @@ Fundamentals of Project
 7) Ethereum web3 API
 8) alchemy blockchain development
 
+
+![image](https://user-images.githubusercontent.com/76739126/162444653-5fa9d127-1d37-4aea-9dab-9cfb2aeaf864.png)
+
 Solidity is a combination of java,c++,rust,etc.
 
 Vite, for all styles tailwind
@@ -20,6 +23,3 @@ Modifications
 2) Line 50 of welcome jsx al and current Account && ( line 44 and )} on line 55
    company common styles to company styles - 53:58
 
-
-
-Line 88 of Welcome.jsx, 105 line false
