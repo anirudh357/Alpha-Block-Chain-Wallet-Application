@@ -2,7 +2,7 @@
 
   <img width="1280" alt="2022-04-14 (3)" src="https://user-images.githubusercontent.com/76739126/163265726-04921336-824f-44e4-8021-fa9999827877.png">
 
-Now, after transaction - in-return gift gifs using API
+Now, after transaction - in-return gift gifs using API.
 
   <img width="1280" alt="2022-04-14 (4)" src="https://user-images.githubusercontent.com/76739126/163266534-622e43bf-b046-4087-8073-05be36c22440.png">
 
