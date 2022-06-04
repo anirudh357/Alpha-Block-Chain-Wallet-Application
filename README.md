@@ -15,7 +15,7 @@ Now, after transaction - in-return gift gifs using API.
 5) Each transaction will be paired with a gift and it will be forever be stored on the blockchain.
 6) It can be used from mobile devices too.
 7) Ethereum web3 API
-8) alchemy blockchain development
+8) alchemy blockchain development.
 
 <img width="320" alt="68747470733a2f2f692e6962622e636f2f44564634744e572f696d6167652e706e67" src="https://user-images.githubusercontent.com/76739126/163267304-7661d6fb-cdfc-4ef8-af7f-0aaee61531c4.png">
 
